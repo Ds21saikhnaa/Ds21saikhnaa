@@ -1,31 +1,53 @@
-# Hi there, I'm Saikhanbileg -  👋 
-## I'm a Developer!!
-- 🔭 Check out my VS Code course!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Learn more about web3
-### Connect with me:
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/saihan.bileg.3/">
-  <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.facebook.com/saihan.bileg.3/">
-  <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" />
-</a>
+###
 
-<img align="right" alt="GIF" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif" width="400" height="317" />
+  
+  
+  <h1 align="center">Heyy wasupp? I'm Saikhanbileg 🤙<width="30px"></h1>
+  
+  
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.com/)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://web.dev/learn/css/)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
-[<img align="left" alt="C" width="26px" src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1648129007~hmac=d4f19ce116396112004b0607c2115141" style="padding-right:10px;" />](https://www.programiz.com/c-programming/)
-[<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="padding-right:10px;" />](https://www.cplusplus.com//)
-<br />
-<br />
+<p align="center">
+  <br>
+</p>
+ 
+  
+  ## 🔥 Languages:
+
+<p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+     <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
+</p>
+
+  
+  ## ⭐️ Libraries and Frameworks:
+
+  <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/2x/spring-logo.png" alt="spring" width="44" height="44"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/2x/react.png" alt="react" width="44" height="44"/> </a> 
+  <a href="https://vaadin.com/" target="_blank"> <img src="https://img.icons8.com/windows/2x/vaadin.png" alt="vaadin" width="44" height="44"/> </a> 
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="opencv" width="44" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="44" height="44"/>      </a> 
+ 
+  
+   ##  💥  Tools, IDEs and Softwares:
+
+<p align="left"> 
+
+  <a href="https://www.eclipse.org/ide/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" alt="express" width="40" height="40" /> </a>
+   <a href="https://www.jetbrains.com/idea/"> <img src="https://img.icons8.com/color/2x/intellij-idea.png" alt="intellij" width="40" height="40" /> </a>
+   <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="vscode" width="40" height="40" /> </a>
+  
+  
+</p>   
+
+  Test  README
+
+  
+   <br>
+  <br>
