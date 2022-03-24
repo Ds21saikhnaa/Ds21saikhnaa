@@ -25,5 +25,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
+[<img align="left" alt="C" width="26px" src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1648129007~hmac=d4f19ce116396112004b0607c2115141" style="padding-right:10px;" />](https://www.programiz.com/c-programming/)
+[<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="padding-right:10px;" />](https://www.cplusplus.com//)
 <br />
 <br />
