@@ -3,7 +3,8 @@
   
   
   <h1 align="center">Hi there, I'm Saikhanbileg 🤙<width="30px"></h1>
-  ## I'm a Developer!!
+  ###
+  I'm a Developer!!
 - 🔭 Check out my VS Code course!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with others
