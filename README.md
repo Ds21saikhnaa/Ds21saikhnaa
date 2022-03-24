@@ -6,8 +6,11 @@
 - 🥅 2022 Goals: Learn more about web3
 ### Connect with me:
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/thebi7guun/">
-  <img align="left" alt="Zolboo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/saihan.bileg.3/">
+  <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.facebook.com/saihan.bileg.3/">
+  <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/Facebook.png" />
 </a>
 
 <img align="right" alt="GIF" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif" width="400" height="317" />
