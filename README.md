@@ -10,7 +10,7 @@
   <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.facebook.com/saihan.bileg.3/">
-  <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/Facebook.png" />
+  <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" />
 </a>
 
 <img align="right" alt="GIF" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif" width="400" height="317" />
