@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Learn more about mongoDB and mySQL
 
   
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e473blwbdcpgrujtig5k754e16w1r5ymq6vrmv2e79l&rid=giphy.gif&ct=g">
 
 
 <p align="center">
@@ -43,7 +43,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/2x/react.png" alt="react" width="44" height="44"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="react" width="44" height="44"/> </a>
   <a href="https://expressjs.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvlAM2kg5H1ufCzBW7GjzCo77Ys_neYxOHQ&usqp=CAU" alt="react" width="44" height="44"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-GyFgLU6JqNCdneWdt_5a58ePncBTaeEVmg&usqp=CAU" alt="react" width="44" height="44"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="react" width="44" height="44"/> </a>
    ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
