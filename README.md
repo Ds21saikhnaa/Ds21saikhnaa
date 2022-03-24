@@ -2,8 +2,13 @@
 
   
   
-  <h1 align="center">Heyy wasupp? I'm Saikhanbileg 🤙<width="30px"></h1>
-  
+  <h1 align="center">Hi there, I'm Saikhanbileg 🤙<width="30px"></h1>
+  ## I'm a Developer!!
+- 🔭 Check out my VS Code course!
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with others
+- 🥅 2022 Goals: Learn more about mongoDB and mySQL
+
   
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
