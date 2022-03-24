@@ -11,36 +11,37 @@
 <p align="center">
   <br>
 </p>
- 
+
+  ### Connect with me:
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/saihan.bileg.3/">
+  <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.facebook.com/saihan.bileg.3/">
+  <img align="left" alt="Saikhnaa's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" />
+</a>
+
   
   ## 🔥 Languages:
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
      <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
 
   
   ## ⭐️ Libraries and Frameworks:
 
-  <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/2x/spring-logo.png" alt="spring" width="44" height="44"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/2x/react.png" alt="react" width="44" height="44"/> </a> 
-  <a href="https://vaadin.com/" target="_blank"> <img src="https://img.icons8.com/windows/2x/vaadin.png" alt="vaadin" width="44" height="44"/> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="opencv" width="44" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="44" height="44"/>      </a> 
- 
-  
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/2x/react.png" alt="react" width="44" height="44"/> </a>
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="react" width="44" height="44"/> </a>
    ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
 
   <a href="https://www.eclipse.org/ide/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" alt="express" width="40" height="40" /> </a>
-   <a href="https://www.jetbrains.com/idea/"> <img src="https://img.icons8.com/color/2x/intellij-idea.png" alt="intellij" width="40" height="40" /> </a>
    <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="vscode" width="40" height="40" /> </a>
   
   
