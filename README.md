@@ -7,7 +7,6 @@
   I'm a Developer!!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Learn want more about mySQL
 
   
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e473blwbdcpgrujtig5k754e16w1r5ymq6vrmv2e79l&rid=giphy.gif&ct=g">
@@ -36,6 +35,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
      <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
+  <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/149029be5d632d26129278083a0e1f965fe112b27bb184c0d851a943816a7ee5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f35302f3030303030302f6d7973716c2d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width: 100%;"> </a>
 </p>
 
   
