@@ -2,12 +2,7 @@
 
   
   
-  <h1 align="center">Hi there, I'm Saikhanbileg 🤙<width="30px"></h1>
-  ###
-  I'm a Developer!!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with others
-
+<h1 align="center">Hi there, I'm Saikhanbileg 🤙<width="30px"></h1>
   
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e473blwbdcpgrujtig5k754e16w1r5ymq6vrmv2e79l&rid=giphy.gif&ct=g">
 
