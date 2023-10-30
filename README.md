@@ -32,7 +32,7 @@
     <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/149029be5d632d26129278083a0e1f965fe112b27bb184c0d851a943816a7ee5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f35302f3030303030302f6d7973716c2d6c6f676f2e706e67" data-canonical-     src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width: 100%;"> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python"  width="44" height="44" / > </a>
-    <a href="https://go.dev" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdKd7ysAI2Uw19bSgV0H6j1p0ISp81vZBhwuVQy02&s" alt="go" width="44" height="44"/ > </a>
+    <a href="https://go.dev" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdKd7ysAI2Uw19bSgV0H6j1p0ISp81vZBhwuVQy02&s" alt="go" width="44" height="30"/ > </a>
     <a href="https://www.w3.org/html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
