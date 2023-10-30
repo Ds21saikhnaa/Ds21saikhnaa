@@ -42,6 +42,7 @@
     <a href="https://expressjs.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvlAM2kg5H1ufCzBW7GjzCo77Ys_neYxOHQ&usqp=CAU" alt="react" width="44" height="44"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="react" width="44" height="44"/> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzVvO19x5P7OHObIAgMl1kH2WJ7qpPcrJ82DdrFjM&s" alt="graphql" width="44" height="44"/> </a>
+    <a href="https://nestjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="44" height="44"/> </a>
 </p>
    ##  💥  Tools, IDEs and Softwares:
 
