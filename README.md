@@ -3,9 +3,6 @@
   
   
 <h1 align="center">Hi there, I'm Saikhanbileg 🤙<width="30px"></h1>
-  
-<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=Ds21saikhnaa&theme=radical">
-
 
 <p align="center">
   <br>
